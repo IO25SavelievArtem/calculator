@@ -7,6 +7,7 @@ class Calculator
         static int Add (double, double);
         static int Sub (double, double);
         static int Mul (double, double);
+        static int Div (double, double);
 };
 
 #endif//CALCULATOR_H
